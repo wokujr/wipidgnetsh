@@ -1,0 +1,6 @@
+saya tidak bertanggung jawab bila terjadi sesuatu
+gunakan untuk kebaikan misal bantu tetangga atau teman atau diri sendiri karena lupa password wifi
+
+script ini tidak berfungsi untuk WIFI yang terlindungi 
+based on simple command netsh wlan show profiles pada cmd bukan untuk meretas dsb
+jika terkoneksi dg kabel lan maka gunakanlah lan0 sebagai gantinya
